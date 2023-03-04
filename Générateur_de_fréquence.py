@@ -1,4 +1,5 @@
-"""Voici un script Python 3 pour Linux Mint qui génère une fréquence définie par l'utilisateur au format .WAV d'une durée de 5 secondes. Les fréquences supportées vont de 10 hertz à 20 kilohertz."""
+"""Voici un script Python 3 pour Linux Mint qui génère une fréquence définie par l'utilisateur au format .WAV d'une durée de 5 secondes. 
+Les fréquences supportées vont de 10 hertz à 20 kilohertz."""
 
 import math
 import struct
